@@ -19,3 +19,6 @@ A simple palindrome checker built using HTML, CSS, and JavaScript.
 - Loops
 - String reversal logic
 - Conditional statements
+
+  ##Live Demo:-
+  https://linakhairnar.github.io/palindrome-checker/
